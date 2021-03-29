@@ -12,8 +12,6 @@ Use [GUI](https://github.com/T4533N/pubchat-gui) instead.
 
 1. No message history.
 
-See GUI instead.
-
 ## Install
 
 using npm:
