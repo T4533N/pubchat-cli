@@ -5,10 +5,12 @@
 
 ## Install
 
+using npm:
+
 ```bash
 $ npm install --global pubchat-cli
 ```
-OR using npx: 
+using npx: 
 
 ```bash
 $ npx pubchat-cli
