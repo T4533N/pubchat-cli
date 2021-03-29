@@ -26,9 +26,10 @@ $ pubchat-cli --help
 	  $ pubchat-cli 
 	
  	Example:
-      $ pubchat-cli
+          $ pubchat-cli
 	    username: (put your username)
 	    channelName: (put the channelName you wanna join)
 
-	[enjoy chatting like a hacker :D]
+[enjoy chatting like a hacker :D]
+
 ```
