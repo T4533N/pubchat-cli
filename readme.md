@@ -26,8 +26,6 @@ $ npx pubchat-cli
 2. Install dependencies: `cd pubchat-cli && npm install`
 3. Run the development server: `pubchat-cli`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 ## CLI
 
 ```
