@@ -22,9 +22,9 @@ $ npx pubchat-cli
 
 ## Run Locally
 
-1. Clone the repo: `git clone https://github.com/T4533N/react-typing-test.git`
-2. Install dependencies: `cd react-typing-test && npm install`
-3. Run the development server: `npm start`
+1. Clone the repo: `git clone https://github.com/T4533N/pubchat-cli.git`
+2. Install dependencies: `cd pubchat-cli && npm install`
+3. Run the development server: `pubchat-cli`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
