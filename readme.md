@@ -1,6 +1,8 @@
+Both the CLI and GUI version of Pubchat can be used to join a channel at the same time and to send or recieve messages.
+
 # Pubchat-cli
 
-A command line chat application built with React Ink and Pubnub chat api. Both the CLI and GUI version of Pubchat can be used to join a channel at the same time and to send or recieve messages.
+A command line chat application built for those who loves to use the terminal. 
 
 Use [GUI](https://github.com/T4533N/pubchat-gui) instead.
 
