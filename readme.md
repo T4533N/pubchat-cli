@@ -8,7 +8,8 @@ Use [GUI](https://github.com/T4533N/pubchat-gui) instead.
 
 ## Pros
 
-1. You can act like a hacker xD
+1. Get messages sent from GUI
+2. You can act like a hacker xD
 
 ## Cons
 
