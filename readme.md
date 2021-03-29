@@ -22,13 +22,13 @@ $ npx pubchat-cli
 ```
 $ pubchat-cli --help
 
-  Usage
-    $ pubchat-cli
+  Usage:
+	    $ pubchat-cli 
+	
+ 	Example:
+      $ pubchat-cli
+	    username: (put your username)
+	    channelName: (put the channelName you wanna join)
 
-  Options
-    --name  Your name
-
-  Examples
-    $ pubchat-cli --name=Jane
-    Hello, Jane
+	[enjoy chatting like a hacker :D]
 ```
