@@ -22,8 +22,8 @@ $ npx pubchat-cli
 ```
 $ pubchat-cli --help
 
-  Usage:
-	    $ pubchat-cli 
+	Usage:
+	  $ pubchat-cli 
 	
  	Example:
       $ pubchat-cli
