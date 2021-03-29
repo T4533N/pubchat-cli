@@ -8,6 +8,11 @@
 ```bash
 $ npm install --global pubchat-cli
 ```
+OR using npx: 
+
+```bash
+$ npx pubchat-cli
+```
 
 
 ## CLI
