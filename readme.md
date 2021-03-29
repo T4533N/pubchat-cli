@@ -1,4 +1,4 @@
-# pubchat-cli
+# Pubchat-cli
 
 ## Install
 
