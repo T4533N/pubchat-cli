@@ -1,5 +1,19 @@
 # Pubchat-cli
 
+A command line chat application built with React Ink and Pubnub chat api. Both the CLI and GUI version of Pubchat can be used to join a channel at the same time and to send or recieve messages.
+
+Use [GUI](https://github.com/T4533N/pubchat-gui) instead.
+
+## Pros
+
+1. You can act like a hacker xD
+
+## Cons
+
+1. No message history.
+
+See GUI instead.
+
 ## Install
 
 using npm:
