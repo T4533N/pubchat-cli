@@ -33,7 +33,7 @@ $ npx pubchat-cli
 3. Node.js
 4. NPM (deployment)
 
-## Run Locally
+## Clone
 
 1. Clone the repo: `git clone https://github.com/T4533N/pubchat-cli.git`
 2. Install dependencies: `cd pubchat-cli && npm install`
